@@ -1,6 +1,12 @@
-h1{
+p{
     color: red;
 }
-label{
+.par{
+    color: blue;
+}
+.greenfou{
     color: green;
+}
+#med{
+    color: yellow;
 }
