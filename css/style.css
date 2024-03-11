@@ -42,3 +42,30 @@ a{
     width: 50%;
     margin-left:25%;
 }
+.fk{
+  color: blue;
+padding-left: 80;
+}
+.fs{
+    margin-left:50%;
+    background-color: rgb(222, 233, 229);
+    margin-bottom: 150%;
+}
+.textp{
+    padding-top: 200;
+}
+.forms{
+    margin-top: 20;
+border-radius: 15px;
+width: 100%;
+height: 100%;
+padding: 5% 5% 5% 5%;
+}
+.kf{
+    padding-left: 80;
+}
+.bt{
+    left: 50%;
+    margin-left: 25%;
+
+}
